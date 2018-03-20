@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+/* This is a comment */
+
 package rx;
 
 import rx.annotations.Experimental;
